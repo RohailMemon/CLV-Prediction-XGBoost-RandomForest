@@ -78,7 +78,7 @@ Optimize pricing models for long-stay customers.
 
 Adjust marketing efforts toward high-value customers.
 
-## Tech Stack
+**Tech Stack**
 
 | Category                  | Technology Used  |
 |--------------------------|----------------|
